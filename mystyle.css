@@ -124,5 +124,11 @@ span {
 
     .container {
         margin-top: 15px;
+        width: 300px;
+    }
+
+    .image {
+        width: 270px;
+        margin-top: 15px;
     }
 }
