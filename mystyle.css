@@ -113,3 +113,16 @@ p {
 span {
     color: hsl(0, 0%, 100%)
 }
+/* MEDIA QUERY */
+@media (min-width: 300px) and (max-width: 400px) {
+    .big-container {
+        width: 375px;
+        display: flex;
+        justify-content: center;
+        align-items: start;
+    }
+
+    .container {
+        margin-top: 15px;
+    }
+}
